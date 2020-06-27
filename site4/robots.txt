@@ -1,0 +1,5 @@
+Sitemap: https://imyaman.github.io/devopskorea-perl-statocles/site4/sitemap.xml
+User-Agent: *
+Disallow:
+
+
