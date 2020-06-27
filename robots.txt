@@ -1,4 +1,4 @@
-Sitemap: http://site3/sitemap.xml
+Sitemap: https://perl-statocles-devopskorea.youre.space/sitemap.xml
 User-Agent: *
 Disallow:
 

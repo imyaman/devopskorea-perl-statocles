@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://site3/</loc>
+        <loc>https://perl-statocles-devopskorea.youre.space/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <lastmod>2020-06-27</lastmod>
     </url>
     <url>
-        <loc>http://site3/blog/</loc>
+        <loc>https://perl-statocles-devopskorea.youre.space/blog/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
         <lastmod>2020-06-27</lastmod>
     </url>
     <url>
-        <loc>http://site3/blog/2020/06/27/devops-korea/</loc>
+        <loc>https://perl-statocles-devopskorea.youre.space/blog/2020/06/27/devops-korea/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <lastmod>2020-06-27</lastmod>
     </url>
     <url>
-        <loc>http://site3/blog/2020/06/27/first-post/</loc>
+        <loc>https://perl-statocles-devopskorea.youre.space/blog/2020/06/27/first-post/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <lastmod>2020-06-27</lastmod>

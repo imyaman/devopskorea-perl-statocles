@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>My Statocles Site</title>
-        <link>http://site3/blog/</link>
-        <atom:link href="http://site3/blog/index.rss" rel="self" type="application/rss+xml" />
+        <link>https://perl-statocles-devopskorea.youre.space/blog/</link>
+        <atom:link href="https://perl-statocles-devopskorea.youre.space/blog/index.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of My Statocles Site</description>
         <generator>Statocles 0.097</generator>
         <item>
             <title>First Post</title>
-            <link>http://site3/blog/2020/06/27/first-post/</link>
-            <guid>http://site3/blog/2020/06/27/first-post/</guid>
+            <link>https://perl-statocles-devopskorea.youre.space/blog/2020/06/27/first-post/</link>
+            <guid>https://perl-statocles-devopskorea.youre.space/blog/2020/06/27/first-post/</guid>
             <description><![CDATA[
                 <h1>Welcome To Your Blog</h1>
 
@@ -28,8 +28,8 @@ content</a></p>
         </item>
         <item>
             <title>DevOps Korea</title>
-            <link>http://site3/blog/2020/06/27/devops-korea/</link>
-            <guid>http://site3/blog/2020/06/27/devops-korea/</guid>
+            <link>https://perl-statocles-devopskorea.youre.space/blog/2020/06/27/devops-korea/</link>
+            <guid>https://perl-statocles-devopskorea.youre.space/blog/2020/06/27/devops-korea/</guid>
             <description><![CDATA[
                 <p>Markdown content goes here.</p>
 

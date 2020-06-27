@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://site3/blog/</id>
+    <id>https://perl-statocles-devopskorea.youre.space/blog/</id>
     <title>My Statocles Site</title>
     <updated>2020-06-27T00:00:00Z</updated>
-    <link href="http://site3/blog/index.atom" rel="self" />
-    <link href="http://site3/blog/" rel="alternate" />
+    <link href="https://perl-statocles-devopskorea.youre.space/blog/index.atom" rel="self" />
+    <link href="https://perl-statocles-devopskorea.youre.space/blog/" rel="alternate" />
     <generator version="0.097">Statocles</generator>
 
     <entry>
-        <id>http://site3/blog/2020/06/27/first-post/</id>
+        <id>https://perl-statocles-devopskorea.youre.space/blog/2020/06/27/first-post/</id>
         <title>First Post</title>
-        <link href="http://site3/blog/2020/06/27/first-post/" rel="alternate" />
+        <link href="https://perl-statocles-devopskorea.youre.space/blog/2020/06/27/first-post/" rel="alternate" />
         <content type="html"><![CDATA[
             <h1>Welcome To Your Blog</h1>
 
@@ -26,9 +26,9 @@ content</a></p>
         <updated>2020-06-27T00:00:00Z</updated>
     </entry>
     <entry>
-        <id>http://site3/blog/2020/06/27/devops-korea/</id>
+        <id>https://perl-statocles-devopskorea.youre.space/blog/2020/06/27/devops-korea/</id>
         <title>DevOps Korea</title>
-        <link href="http://site3/blog/2020/06/27/devops-korea/" rel="alternate" />
+        <link href="https://perl-statocles-devopskorea.youre.space/blog/2020/06/27/devops-korea/" rel="alternate" />
         <content type="html"><![CDATA[
             <p>Markdown content goes here.</p>
 
